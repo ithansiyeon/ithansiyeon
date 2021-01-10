@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm front/back developer.</h1>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fithansiyeon&count_bg=%23C83DC8&title_bg=%23555555&icon=&icon_color=%23DAA8EB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/ithansiyeon?color=purple)<br>
   
