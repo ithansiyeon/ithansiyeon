@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ES-005571?style=flat-square&logo=ElasticSearch&logoColor=white"/></a>
-<script src="https://gist.github.com/ithansiyeon/bc447187ed878fcee5a98ee077b6e949.js"></script>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
