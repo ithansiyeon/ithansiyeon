@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ES-005571?style=flat-square&logo=ElasticSearch&logoColor=white"/></a>
 
+### :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hansi0121@naver.com)](mailto:hansi0121@naver.com)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
