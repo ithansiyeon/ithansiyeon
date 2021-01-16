@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=header&text=SiYeon%20Han&fontSize=15&animation=twinkling)
-<h1 align="center">Hi 👋, I'm Junior developer.</h1>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=header&text=Hi%20👋,%20I'm%20Junior%20developer&fontSize=15&animation=twinkling)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fithansiyeon&count_bg=%23C83DC8&title_bg=%23555555&icon=&icon_color=%23DAA8EB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/ithansiyeon?color=purple)<br>
   
