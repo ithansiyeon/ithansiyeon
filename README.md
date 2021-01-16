@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=header&text=Hi%20%20👋,%20%20I'm%20Junior%20developer&fontSize=20)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fithansiyeon&count_bg=%23C83DC8&title_bg=%23555555&icon=&icon_color=%23DAA8EB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/ithansiyeon?color=purple)<br>
+
+💜 My major is the School of Information and Communication Electronic Engineering. Since 2016, I have worked on projects in various languages. I am still studying while solving algorithm problems.
   
 ![ithansiyeon's github stats](https://github-readme-stats.vercel.app/api?username=ithansiyeon&theme=buefy&show_icons=true)
 
