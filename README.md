@@ -6,7 +6,7 @@
 
 ### :cyclone: Languages
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-![ANDROID](https://img.shields.io/badge/JAVA%20&%20ANDROID-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=android&logoColor=white)  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Python&logoColor=blue"/></a>&nbsp 
 ![Matlab](https://img.shields.io/badge/Matlab-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=mathworks&logoColor=white) 
 
 <!--
