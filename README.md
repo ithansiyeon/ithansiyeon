@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ES-005571?style=flat-square&logo=ElasticSearch&logoColor=white"/></a>
 
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
