@@ -5,6 +5,7 @@
 💜 My major is the School of Information and Communication Electronic Engineering. Since 2016, I have worked on projects in various languages. I am still studying while solving algorithm problems.
   
 ![ithansiyeon's github stats](https://github-readme-stats.vercel.app/api?username=ithansiyeon&theme=buefy&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithansiyeon&layout=compact)](https://github.com/ithansiyeon/github-readme-stats)
 
 ### :cyclone: Languages
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -24,6 +25,7 @@
 <img src="https://img.shields.io/badge/ES-005571?style=flat-square&logo=ElasticSearch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+
 
 <!--
 - 🔭 I’m currently working on ...
