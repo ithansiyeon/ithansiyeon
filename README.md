@@ -4,10 +4,10 @@
 
 :pushpin: My major is the School of Information and Communication Electronic Engineering. Since 2016, I have worked on projects in various languages. I am still studying while solving algorithm problems.
   
-![ithansiyeon's github stats](https://github-readme-stats.vercel.app/api?username=ithansiyeon&theme=buefy&show_icons=true)
+![SiYeonHan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ithansiyeon&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithansiyeon&layout=compact)](https://github.com/ithansiyeon/github-readme-stats)
 
-### :cyclone: Languages
+### :sparkles: Languages
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white"/></a>
