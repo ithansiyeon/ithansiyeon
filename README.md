@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=header&text=Hi%20%20👋,%20%20I'm%20Junior%20developer&fontSize=20)<br>
+<h1 align="center">Hi 👋, I'm a junior developer.</h1>
+<h3 align="center">I pursue efficiency and clean code.</h3>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fithansiyeon%2Fhit-counter)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/ithansiyeon?color=default)<br>
 
 :pushpin: My major is the School of Information and Communication Electronic Engineering. Since 2016, I have worked on projects in various languages. I am still studying while solving algorithm problems.
