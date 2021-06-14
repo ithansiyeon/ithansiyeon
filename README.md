@@ -2,8 +2,6 @@
 <h3 align="center">I pursue efficiency and clean code.</h3>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fithansiyeon%2Fhit-counter)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/ithansiyeon?color=default)<br>
-
-:pushpin: Since 2016, I have worked on projects in various languages. I am still studying while solving algorithm problems.
   
 ![SiYeonHan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ithansiyeon&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithansiyeon&layout=compact)](https://github.com/ithansiyeon/github-readme-stats)
