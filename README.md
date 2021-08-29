@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm a junior developer.</h1>
-<h3 align="center">I pursue efficiency and clean code.</h3>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
