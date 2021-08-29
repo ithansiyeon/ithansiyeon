@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm a junior developer.</h1>
 <h3 align="center">I pursue efficiency and clean code.</h3>
-  
-![SiYeonHan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ithansiyeon&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithansiyeon&layout=compact)](https://github.com/ithansiyeon/github-readme-stats)
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ithansiyeon&show_icons=true&theme=default" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithansiyeon&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>
 
 ### :sparkles: Languages
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
