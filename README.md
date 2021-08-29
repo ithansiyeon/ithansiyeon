@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a junior developer.</h1>
+:baby_chick: Junior Developer
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -13,7 +13,7 @@
 
 <br/>
 
-### :sparkles: Languages
+### :muscle: Skills
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white"/></a>
