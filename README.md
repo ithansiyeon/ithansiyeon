@@ -1,6 +1,6 @@
-:baby_chick: Junior Developer
 
-## Github Stats  
+:baby_chick: Junior Developer
+## Github Stats
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ithansiyeon&show_icons=true&theme=default" align="left" style="width: 100%" />
