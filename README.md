@@ -1,5 +1,6 @@
-
 :baby_chick: Junior Developer
+<p><a href="https://ithansiyeon.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://github.com/ithansiyeon?tab=repositories"/></a></p>
+
 ## Github Stats
 <table><tr><td valign="top" width="50%">
 
@@ -34,6 +35,8 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+
 
 <!--
 - 🔭 I’m currently working on ...
