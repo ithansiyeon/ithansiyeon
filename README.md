@@ -1,6 +1,6 @@
-:baby_chick: Junior Developer 
+<h2 align="center">⋆｡ﾟ✶° Junior Developer  ⋆｡ﾟ✶°</h2> 
 
-<p><a href="https://ithansiyeon.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a></p>
+<p align="center"><a href="https://ithansiyeon.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
 ## Github Stats
 <table><tr><td valign="top" width="50%">
