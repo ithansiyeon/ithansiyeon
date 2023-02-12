@@ -1,6 +1,6 @@
 <h2 align="center">⋆｡ﾟ✶° Backend Developer  ⋆｡ﾟ✶°</h2> 
 
-<p align="center"><a href="https://ithansiyeon.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://spiritual-circle-37c.notion.site/6edb21a9b67d4b2ebd42be3fe29f1fc4"><img src="https://img.shields.io/badge/Portfolio-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a></p>
+<p align="center"><a href="https://ithansiyeon.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://spiritual-circle-37c.notion.site/6edb21a9b67d4b2ebd42be3fe29f1fc4"><img src="https://img.shields.io/badge/Portfolio-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
 ## Github Stats
 <table><tr><td valign="top" width="50%">
