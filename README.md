@@ -1,4 +1,4 @@
-<h2 align="center">⋆｡ﾟ✶° Backend Developer  ⋆｡ﾟ✶°</h2> 
+<h2 align="center">⋆｡ﾟ✶° Java Backend Developer  ⋆｡ﾟ✶°</h2> 
 
 <p align="center">
   <a href="https://ithansiyeon.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>&nbsp;&nbsp;
