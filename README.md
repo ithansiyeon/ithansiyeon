@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ES-005571?style=flat-square&logo=ElasticSearch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 
 <!--
 - 🔭 I’m currently working on ...
