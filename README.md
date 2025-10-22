@@ -43,13 +43,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
-
----
-
-<!-- Optional personal section
-### 🌱 About Me
-- 🔭 Working on security-based web systems
-- 🌱 Learning SQLP and system optimization
-- 🖋️ Writing tech posts on Tistory
-- ⚡ Fun fact: I love clean UI and analytics dashboards
--->
